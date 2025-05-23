@@ -32,8 +32,8 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dracula" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api?username=afkpuma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afkpuma&layout=compact&theme=dracula" alt="Linguagens mais usadas">
 </div>
 
 ---
