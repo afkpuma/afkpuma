@@ -1,15 +1,15 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJjY2I5MzY5YzY2YzY0YzRhY2UzNzY3MWYwYzgwMjQ2YWE4OTcyYSZlcD12MV9pbnRlcm5hbF9naWZzX2J5X2lkJmN0PWc/hpLwYl6D6J7gQ/giphy.gif" width="200" height="200" alt="Bem-vindo!">
   <h1>Olá! 👋 Eu sou Yam Alao</h1>
-  <p>Desenvolvedor(a) de Software com foco em construir aplicações robustas, escaláveis e eficientes.</p>
-  <p>Atualmente focado(a) no projeto <strong>construara_1</strong> e explorando novas tecnologias.</p>
+  <p>Desenvolvedor de Software com foco em construir aplicações robustas, escaláveis e eficientes.</p>
+  <p>Atualmente focado no projeto <strong>construara_1</strong> e explorando novas tecnologias.</p>
 </div>
 
 ---
 
 ### 🚀 Sobre Mim
 
-Sou apaixonado(a) por transformar ideias em código e resolver problemas complexos com soluções elegantes. Minha jornada no desenvolvimento me levou a mergulhar em arquiteturas de software, boas práticas de código e metodologias ágeis. Acredito firmemente na importância de **aplicativos robustos e escaláveis** e na **documentação de projeto** bem feita.
+Sou apaixonado por transformar ideias em código e resolver problemas complexos com soluções elegantes. Minha jornada no desenvolvimento me levou a mergulhar em arquiteturas de software, boas práticas de código e metodologias ágeis. Acredito firmemente na importância de **aplicativos robustos e escaláveis** e na **documentação de projeto** bem feita.
 
 ---
 
@@ -40,7 +40,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 ### 🔗 Conecte-se Comigo!
 
-Estou sempre aberto(a) para novas conexões e colaborações. Sinta-se à vontade para me contatar:
+Estou sempre aberto para novas conexões e colaborações. Sinta-se à vontade para me contatar:
 
 <p align="center">
   <a href="yam_alao@outlook.com" target="_blank">
